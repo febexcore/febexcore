@@ -1,25 +1,23 @@
-# 👋 hi. i'm Tanvir. i hack (legally, mom)
 
-ctrl+c, ctrl+v my way through CTFs until something breaks 💀
-then i learn why it broke. then i break it again.
+# Hi, I'm Tanvir Ahmed 👋
 
-### lore
-- 🕵 ethical hacking / web pentesting / network security / digital forensics
-- 🧪 living in TryHackMe, Hack The Box & DVWA
-- 🧠 "just one more room" is a lie i tell myself nightly
-- 📝 CTF write-ups so future me stops asking "wait how did i do that"
+Cybersecurity enthusiast who enjoys finding weak spots before someone else does 🔍
 
-### arsenal
-Kali Linux
-Burp Suite
-Nmap
-Wireshark
-Python
-Linux
+### 🔐 Focus areas
+*Ethical Hacking* · *Web Penetration Testing* · *Network Security* · *Digital Forensics*
 
-### contact (no phishing pls)
-📧 tanvirahmed.febex@gmail.com
+### 🧪 What I'm doing now
+- Hands-on practice on TryHackMe, Hack The Box, and DVWA
+- Documenting CTF challenges and lab write-ups
+- Building my skills in web exploitation and network analysis
 
+### 🛠️ Toolkit
+Kali Linux · Burp Suite · Nmap · Wireshark · Python · Linux
+
+### 📫 Contact
+tanvirahmed.febex@gmail.com
+
+All testing is done in legal labs and with permission
 
 <!--
 **febexcore/febexcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
